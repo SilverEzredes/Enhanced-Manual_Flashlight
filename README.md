@@ -1,4 +1,4 @@
-# Enhanced-Manual-Flashlight
+# Enhanced Manual Flashlight
 A script mod that improves the manual flashlight by incorporating controller support, providing accessible settings, and implementing a battery system.
 
 ### Controls: 
