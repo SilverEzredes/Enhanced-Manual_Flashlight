@@ -8,7 +8,7 @@ A script mod that improves the manual flashlight by incorporating controller sup
 You can change the controls in `[REFramework > Script Generated UI > Flashlight Settings]`
 
 ### Battery:
-While the flashlight is on, its battery level will start to decease, when reached zero the flashlight will turn off.
+While the flashlight is on, its battery level will start to decrease, when reached zero the flashlight will turn off.
 The battery will automatically recharge when the flashlight is turned off.
 
 ### Flicker:
